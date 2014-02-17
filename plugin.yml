@@ -1,0 +1,26 @@
+main: com.blockmadness.arriej.MadGuide.MadGuide
+database: false
+
+name: MadGuide
+version: 0.2
+description: Donator rank command lists.
+
+author: K_Cin, arriej
+website: http://blockmadness.com/
+
+commands:
+    quartz:
+        description: Displays a list with the extra commands an QUARTZ player can use.
+        usage: Syntax error! Simply type /<command> to display a list of commands.
+    redstone:
+        description: Displays a list with the extra commands an REDSTONE player can use.
+        usage: Syntax error! Simply type /<command> to display a list of commands.
+    lapis:
+        description: Displays a list with the extra commands an LAPIS player can use.
+        usage: Syntax error! Simply type /<command> to display a list of commands.
+    diamond:
+        description: Displays a list with the extra commands an DIAMOND player can use.
+        usage: Syntax error! Simply type /<command> to display a list of commands.
+    ender:
+        description: Displays a list with the extra commands an ENDER player can use.
+        usage: Syntax error! Simply type /<command>	 to display a list of commands
